@@ -1268,6 +1268,7 @@ blockquote {
         margin-top: -30px;
         font-size: 40px;
     }
+   
 }
 
 /* --------- 6.5 Video ---------- */
@@ -1540,7 +1541,7 @@ blockquote {
 }
 
 #scrollUp:before {
-    background: #000;
+    background: #000 ;
     font-family: "fontawesome";
     font-size: 2.4em;
     font-style: normal;
@@ -2218,6 +2219,8 @@ blockquote {
     .col-3, .col-4, .col-6, .col-8, .col-10, .col-12 {
         width: 50%;
     }
+
+    
 
     /*-----------------Header Elements-----------------*/
     #header .row {
