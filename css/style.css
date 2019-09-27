@@ -1432,6 +1432,8 @@ blockquote {
     transition: all 0.2s ease-in-out 0s;
     position: relative;
     border: 10px solid #fff;
+    width: 80%;
+    margin: auto;
 }
 
 

@@ -132,13 +132,22 @@ a:hover, #header.nav-solid nav a:hover {
     background-size:cover;
     transition: opacity 1s, background 1s;
 }
+#pricing-block-content{
+    width: 50%
+    margin:auto;
+}
 @media (max-width:629px){
 
     #banner {
     background-image: none;
+    
 }
 
 
+#pricing-block-content{
+    margin: auto;
+    width: 100%
+}
 
 }
 
