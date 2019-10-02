@@ -232,6 +232,8 @@ section {
 
 .col-1 {
   width: 100%;
+  padding: 20px 0px;
+
 }
 
 .col-2 {
@@ -810,7 +812,7 @@ h6 {
 /*Font Icon sizes*/
 
 .fa-1x {
-  font-size: 15px !important;
+  font-size: 25px !important;
 }
 
 /*Icon Block*/
@@ -2330,4 +2332,9 @@ blockquote {
     height: 432px !important;
   }
 
+}
+.para{
+  font-size: 17px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
