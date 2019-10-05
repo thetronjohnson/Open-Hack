@@ -128,7 +128,7 @@ a:hover, #header.nav-solid nav a:hover {
 /* Banner Background and Text Colors */
 
 #banner {
-  background: url("../images/img4.png") no-repeat center top;
+  background-color: :white;
     background-size:cover;
     transition: opacity 1s, background 1s;
 }
